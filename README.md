@@ -21,7 +21,7 @@ To use this repository, follow these steps:
 5. Explore the sentiment analysis results, including sentiment distribution visualizations.
 
 ## Contributing
-Contributions to this repository are welcome! If you want to contribute, please follow these steps:
+Contributions to this repository are welcome!
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
