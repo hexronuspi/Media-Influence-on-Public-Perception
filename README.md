@@ -1,9 +1,7 @@
-# Model-Test-twitter
-This repository contains a machine learning model that utilizes snscrape, a Python library for scraping data from Twitter, to gather tweets for sentiment analysis. The model aims to classify the sentiment of tweets as positive, negative, or neutral, providing insights into public opinions and attitudes.
 # Twitter Sentiment Analysis with snscrape
 
 ## Overview
-This repository hosts a machine learning model that performs sentiment analysis on tweets gathered from Twitter using the snscrape Python library. The primary objective of this model is to classify tweets as positive, negative, or neutral, enabling the extraction of valuable insights into public opinions and attitudes.
+This repository contains a machine learning model that utilizes snscrape, a Python library for scraping data from Twitter, to gather tweets for sentiment analysis. The model aims to classify the sentiment of tweets as positive, negative, or neutral, providing insights into public opinions and attitudes.
 
 ## Features
 - **Data Scraping**: The model leverages snscrape to scrape tweets based on user-defined search queries, hashtags, or user profiles. The scraped data includes the tweet text, user information, timestamp, and other relevant metadata.
