@@ -5,7 +5,6 @@ import pandas as pd
 
 query = "(#Russia) until:2023-06-26 since:2023-06-22"
 
-
 tweets = []
 limit = 1000
 
