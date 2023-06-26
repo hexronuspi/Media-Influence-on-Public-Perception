@@ -3,10 +3,12 @@
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 
-query = "(# ) until:2023-06-05 since:2023-05-28"
-# query = "(#INDIA ) until:2023-06-05 since:2023-05-28"
+query = "(#Russia) until:2023-06-26 since:2023-06-22"
+
+
 tweets = []
 limit = 1000
+
 for tweet in sntwitter.TwitterHashtagScraper(query).get_items():
     if len(tweets) == limit:
         break
@@ -20,7 +22,6 @@ for tweet in sntwitter.TwitterHashtagScraper(query).get_items():
     ])
 
 df = pd.DataFrame(tweets, columns=['Name', 'URL', 'Username', 'Source', 'Location', 'Content'])
-
 df.to_csv('tweets.csv', index=False)
 print("Data collection completed and saved to tweets.csv file.")
 
