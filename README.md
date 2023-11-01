@@ -20,8 +20,7 @@ This repository offers a machine learning model that gathers tweets for sentimen
 #### Installation
 To use this repository, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/hexronuspi/Model-Test-twitter`
-2. Run the python code:  Model-Test-twitter.py  -> This code was tested to run in google colab, to run it on your local system, necessary changes has to be done.
+1. Run the python code:  `Model.py` inside `Model_Twitter`  -> This code was tested to run in google colab, to run it on your local system, necessary changes has to be done.
 
 #### Usage
 1. Access the web interface.
