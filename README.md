@@ -2,7 +2,7 @@
 ```
 Note:
 
-This project is re-organised into version 2:
+This project is being re-organised into version 2:
 
 "Media Influence on Public Perception: Elections vs. Non-Event Times", examines how media behavior and public perception differ during elections versus non-event periods. By
 gathering and analyzing data from news sources and social media using web scraping techniques, we gain insights into how information influences public opinions, with the aim of promoting informed societal discussions.
