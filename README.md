@@ -1,5 +1,4 @@
 # Media Influence on Public Perception
-## Twitter Sentiment Analysis with snscrape
 ```
 Note:
 
@@ -10,6 +9,8 @@ during elections versus non-event periods. By gathering and analyzing data from 
 media using web scraping techniques, we gain insights into how information influences public opinions,
 with the aim of promoting informed societal discussions"
 ```
+
+## Twitter Sentiment Analysis with snscrape
 ### Overview
 This repository offers a machine learning model that gathers tweets for sentiment analysis using snscrape, a Python package for scraping data from Twitter. The methodology attempts to categorise tweet sentiment as good, negative, or neutral, so offering insights into public thoughts and attitudes.
 
