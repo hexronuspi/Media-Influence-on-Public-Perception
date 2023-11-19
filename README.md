@@ -47,9 +47,4 @@ Contributions to this repository are welcome!
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Acknowledgments
-- The [snscrape](https://github.com/JustAnotherArchivist/snscrape) library for providing an easy-to-use Twitter scraping functionality.
-- The contributors and maintainers of the Python libraries used in this project, including scikit-learn, NLTK, and more.
-- ` @hexronuspi ` and future contributors.
-
 Please feel free to provide feedback or suggestions
